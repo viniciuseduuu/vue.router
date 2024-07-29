@@ -1,0 +1,3 @@
+<template>
+    <h1>Esta é a página de contato</h1>
+  </template>
